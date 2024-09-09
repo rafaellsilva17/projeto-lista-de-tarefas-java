@@ -9,19 +9,19 @@ Este projeto básico de Lista de Tarefas foi desenvolvido em Java, oferecendo um
 - **Remover Tarefas**: Exclua tarefas da lista quando não forem mais necessárias.
 - **Exibir Tarefas**: Visualize todas as tarefas com seus respectivos status.
 
-### 📃 Menu:
+### ⚫ Menu:
 
 ![Screenshot_1](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/menu.png)
 
-### Adicionando Tarefa: ➕
+### 🟢 Adicionando Tarefa:
 
 ![Screenshot_2](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/adicionar.png)
 
-### Exibição das Tarefas: ➖
+### 🟡 Exibição das Tarefas:
 
 ![Screenshot_3](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/exibir.png)
 
-### Remoção das Tarefas: ❌
+### 🔴 Remoção das Tarefas:
 
 ![Screenshot_4](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/remover.png)
 
