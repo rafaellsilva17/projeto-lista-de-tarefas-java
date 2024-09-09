@@ -15,7 +15,7 @@ Este projeto básico de Lista de Tarefas foi desenvolvido em Java, oferecendo um
 
 ### Adicionando Tarefa: ➕
 
-![Screenshot_4]()
+![Screenshot_4](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/adicionar.png)
 
 ### Exibição das Tarefas: ➖
 
