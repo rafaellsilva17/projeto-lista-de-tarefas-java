@@ -1,4 +1,4 @@
-# ☕ Lista de Tarefas - Java
+# ♨️ Lista de Tarefas - Java
 
 Este projeto básico de Lista de Tarefas foi desenvolvido em Java, oferecendo uma maneira simples e prática de gerenciar suas tarefas diretamente no terminal.
 
