@@ -19,11 +19,11 @@ Este projeto básico de Lista de Tarefas foi desenvolvido em Java, oferecendo um
 
 ### Exibição das Tarefas: ➖
 
-![Screenshot_3]()
+![Screenshot_3](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/exibir.png)
 
 ### Remoção das Tarefas: ❌
 
-![Screenshot_4]()
+![Screenshot_4](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/remover.png)
 
 ## 📚 Objetivo do Projeto:
 
