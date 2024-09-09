@@ -11,19 +11,19 @@ Este projeto básico de Lista de Tarefas foi desenvolvido em Java, oferecendo um
 
 ### 📃 Menu:
 
-![Screenshot_3]()
+![Screenshot_1](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/menu.png)
 
 ### Adicionando Tarefa: ➕
 
-![Screenshot_4](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/adicionar.png)
+![Screenshot_2](https://raw.githubusercontent.com/rafaellsilva17/projeto-lista-de-tarefas-java/main/images/adicionar.png)
 
 ### Exibição das Tarefas: ➖
 
-![Screenshot_5]()
+![Screenshot_3]()
 
 ### Remoção das Tarefas: ❌
 
-![Screenshot_6]()
+![Screenshot_4]()
 
 ## 📚 Objetivo do Projeto:
 
